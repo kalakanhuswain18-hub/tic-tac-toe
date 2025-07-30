@@ -1,6 +1,0 @@
-<?xml version = '1.0' encoding="UTF-8">
- < widget
-  android-versioncode='1'
-  id='com.codePoker.NamePrinter'
-  version='1.0.0'>
-  < name>NamePrinter</ name>
